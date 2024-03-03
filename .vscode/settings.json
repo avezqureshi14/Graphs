@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "*.jsx": "javascriptreact",
+        "unordered_map": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}

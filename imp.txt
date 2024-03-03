@@ -1,0 +1,6 @@
+🔥 Agar Visited true hai aur kisi ke apun parent bhi nahi hai iska matlab that there exist a cycle in the graph
+
+
+source node joh bhi hai iske liye distance array meh sabse pehle 0 set karne ka
+
+using adjacecny list where can u go and then update the value of distance array using the weights of the graph, and id u get one more new distance then update the previous one iff the new one is smaller than previous one 
